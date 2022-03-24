@@ -1,0 +1,21 @@
+.buttonStyle{
+    width: 56px;
+    height: 56px;
+    padding: 17px 28px;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonStyle:not(:last-child){
+    margin-right: 16px;
+}
+
+.disabled{
+    background: #E0E0E0;
+    cursor: default;
+}
+
