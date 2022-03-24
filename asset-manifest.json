@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.36effcf2.css",
+    "main.js": "/react-deploy/static/js/main.bb365128.js",
+    "static/media/me.jpg": "/react-deploy/static/media/me.0c035a18d7162609ee60.jpg",
+    "static/media/Flash Message Error.svg": "/react-deploy/static/media/Flash Message Error.8b07f49e73dff2cb742c3b59a5fb2b38.svg",
+    "static/media/Flash Message Error Mob.svg": "/react-deploy/static/media/Flash Message Error Mob.8e3b8f2e27c1fe7f291bb7b2122c3a02.svg",
+    "static/media/Flash Message Success.svg": "/react-deploy/static/media/Flash Message Success.ce13503950e3865c09480fec363f4b00.svg",
+    "static/media/Flash Message Success Mob.svg": "/react-deploy/static/media/Flash Message Success Mob.45bdae08f5ba83db8a60983a28db3383.svg",
+    "static/media/pet.svg": "/react-deploy/static/media/pet.42d6230321a6de0a782e40911285e553.svg",
+    "static/media/Vector.svg": "/react-deploy/static/media/Vector.0bb2d617ee32124cd2c362115a0335c5.svg",
+    "static/media/InstagramIcon.svg": "/react-deploy/static/media/InstagramIcon.72ebfed3f95f26dd5601e50a706ccd78.svg",
+    "static/media/fileIcon.svg": "/react-deploy/static/media/fileIcon.0932de972bb1f83aaef4ca65364ca575.svg",
+    "static/media/vkIcon.svg": "/react-deploy/static/media/vkIcon.e6803db71eea2ec8505f5730e571fff5.svg",
+    "static/media/loadIcon.svg": "/react-deploy/static/media/loadIcon.389244143715573042bb5326fe859734.svg",
+    "static/media/ACADEMY.svg": "/react-deploy/static/media/ACADEMY.0f1f6e702dfb7170b943134fa656a36b.svg",
+    "static/media/iconNotFound.svg": "/react-deploy/static/media/iconNotFound.057c9ec0efe6f7f14a038295f220f9be.svg",
+    "static/media/Vector 1.svg": "/react-deploy/static/media/Vector 1.36d19b0d5ce39746ea8acc81bc0379e5.svg",
+    "static/media/twitterIcon.svg": "/react-deploy/static/media/twitterIcon.505fa876e9a888e9ea9f4f6eda9ac688.svg",
+    "static/media/deleteIcon.svg": "/react-deploy/static/media/deleteIcon.1902408d117bb180ca561367bae76bd4.svg",
+    "static/media/sex mail.svg": "/react-deploy/static/media/sex mail.045dda3c1a2cafcf2404ada59c057c67.svg",
+    "index.html": "/react-deploy/index.html",
+    "static/media/facebookIcon.svg": "/react-deploy/static/media/facebookIcon.1e023bd3abef971a751edd2f0e84a414.svg",
+    "static/media/errorIcon.svg": "/react-deploy/static/media/errorIcon.e0544452677321e240a345a7b52b277c.svg",
+    "static/media/closeButton.svg": "/react-deploy/static/media/closeButton.8b1c064428937ad6664e72319754d954.svg",
+    "static/media/arrowLeftDisabled.svg": "/react-deploy/static/media/arrowLeftDisabled.77489f6e1c49f0f0366a612a6dba2f13.svg",
+    "static/media/arrowRightDisabled.svg": "/react-deploy/static/media/arrowRightDisabled.dab516a9eea4e072a745fd69c1c1d198.svg",
+    "static/media/arrowLeft.svg": "/react-deploy/static/media/arrowLeft.5fd1c77a7065e1f25ae7b1a161a6e35b.svg",
+    "static/media/arrowRight.svg": "/react-deploy/static/media/arrowRight.9988cc8457f5042cec87dd5560a55482.svg",
+    "static/media/plusIcon.svg": "/react-deploy/static/media/plusIcon.c51830957d4ad240c88e32e49ba6a5fe.svg",
+    "static/media/sliderNotActive.svg": "/react-deploy/static/media/sliderNotActive.e2e6479d13ad387398dff2eceffc1227.svg",
+    "static/media/sliderCurrent.svg": "/react-deploy/static/media/sliderCurrent.6e6d2df6c0646daa58c7864a492eb640.svg",
+    "main.36effcf2.css.map": "/react-deploy/static/css/main.36effcf2.css.map",
+    "main.bb365128.js.map": "/react-deploy/static/js/main.bb365128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36effcf2.css",
+    "static/js/main.bb365128.js"
+  ]
+}
