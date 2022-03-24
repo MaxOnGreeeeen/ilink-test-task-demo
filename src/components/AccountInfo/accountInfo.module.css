@@ -1,0 +1,60 @@
+
+.accountBlock{
+    margin-left: 16px;
+    font-family: "Gilroy";
+    font-weight: 700;
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 30%;
+}
+
+.photoContainer{
+    border-radius: 2px;
+    width: 52px;
+    height: 52px;
+    background: darkgray;
+    overflow: hidden;
+}
+
+.titleContainer{
+    margin-left: 20px;
+}
+
+.accountName{
+    display: none;
+}
+
+.imgBlock{
+    background-position:  center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+    width: 100%;
+}
+
+
+@media screen and (max-width: 600px){
+    .accountBlock{
+        font-size: 12px;
+    }
+
+    .photoContainer{
+        width: 36px;
+        height: 36px;
+    }
+
+    .titleContainer{
+        margin-left: 8px;
+    }
+
+    .accountNameSecondName{
+        display: none;
+    }
+
+    .accountName{
+        display: block;
+    }
+
+}

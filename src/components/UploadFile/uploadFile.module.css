@@ -1,0 +1,43 @@
+.uploadFileBlock{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inputFile{
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.inputFileButton{
+    box-sizing: border-box;
+    font-family: "Gilroy";
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 0.01em;
+    padding: 17px 28px;
+    color: white;
+    background: #585CC6;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+}
+
+.inputInner{
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 600px){
+    .inputFileButton{
+        font-size: 14px;
+    }
+}
+

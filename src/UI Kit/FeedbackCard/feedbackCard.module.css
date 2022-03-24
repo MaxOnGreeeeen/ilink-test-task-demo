@@ -1,0 +1,98 @@
+.cardBody{
+    background: #F5F5F5;
+    border-radius: 2px;
+    width: 519px;
+    min-width: 43%;
+    padding: 24px;
+}
+
+.cardBody:not(:last-child){
+    margin-right: 24px;
+}
+
+.headOfBody{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+}
+
+.accountInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.imgContainer{
+    height: 52px;
+    width: 52px;
+    background: #FFFFFF;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profileTitle{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333333;
+    letter-spacing: -0.0124em;
+    margin-left: 20px;
+}
+
+
+.dateOfCreation{
+
+}
+
+.date{
+    font-family: "Factor A";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #8A8A8A;
+}
+
+.feedbackBody{
+
+}
+
+.description{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+@media screen and (max-width: 800px){
+    .cardBody{
+        padding: 14px;
+    }
+    .profileTitle{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .description{
+        font-size: 12px;
+    }
+
+    .profileTitle{
+        font-size: 16px;
+    }
+
+    .imgContainer{
+        width: 40px;
+        height: 40px;
+    }
+
+    .date{
+        font-size: 10px;
+    }
+}
+

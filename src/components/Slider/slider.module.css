@@ -1,0 +1,6 @@
+.sliderBody{
+    display: flex;
+    width: 100%;
+    overflow-x: hidden;
+    max-width: 100%;
+}

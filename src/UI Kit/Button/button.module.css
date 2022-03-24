@@ -1,0 +1,70 @@
+.buttonStyleFlexible{
+    font-family: "Gilroy";
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 0.01em;
+    padding: 17px 28px;
+    color: white;
+    background: #585CC6;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+}
+
+.buttonStyleDefault{
+    font-family: "Gilroy";
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 0.01em;
+    padding: 17px 28px;
+    color: white;
+    background: #585CC6;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+}
+
+.disabled {
+    background: #8A8A8A;
+    cursor: default;
+    pointer-events: none;
+}
+
+.buttonInside{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startIcon{
+    margin-right: 10px;
+}
+
+.startIconNoMargin{
+    margin-right: 0px;
+}
+
+.buttonTitle{
+
+}
+
+@media screen and (max-width: 600px) {
+    .buttonStyleFlexible{
+        width: 36px;
+        height: 36px;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .buttonTitle{
+        font-size: 14px;
+    }
+
+    .startIcon{
+        margin-right: 10px;
+    }
+}
+

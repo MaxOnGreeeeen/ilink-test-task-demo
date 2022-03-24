@@ -1,0 +1,10 @@
+.sliderItem{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.sliderItem.changeSlide{
+    min-width: 100%;
+}
+

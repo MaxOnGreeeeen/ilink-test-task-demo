@@ -1,0 +1,92 @@
+.cardBody{
+    font-family: "Factor A";
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.headOfCard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    color: #585CC6;
+}
+
+.dateOfBirth{
+    font-family: 'Gilroy';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color:#8A8A8A;
+}
+
+.commonInfo{
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin: 8px 0 18px 0;
+    flex-wrap: wrap;
+}
+
+.boldFont{
+    font-weight: 700;
+}
+
+.infoItem{
+    display: flex;
+    align-items: center;
+}
+
+.infoItem{
+    margin-top: 12px;
+}
+
+.infoItem:not(:last-child){
+    margin-right: 10px;
+}
+
+.sexImg{
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 600px){
+    .commonInfo{
+        width: 100%;
+    }
+    .headOfCard{
+        flex-wrap: wrap;
+    }
+    .title{
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .additionalInfo{
+        height: 30%;
+    }
+}
+
+.description{
+    line-height: 24px;
+    letter-spacing: 0.01em;
+}
+
+.additionalInfo{
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.quation::before{
+    content: "«";
+}
+
+.quation::after{
+    content: "»";
+}
